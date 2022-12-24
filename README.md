@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=&logoColor="/>
 -->
-### #Tag
+### #tag
 <div>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=3178C6"/>
