@@ -72,3 +72,6 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=Firebase&logoColor=FFCA28"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Vim-000000?style=flat-square&logo=Vim&logoColor=019733"/>
+</div>
