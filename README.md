@@ -53,7 +53,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MobX-000000?style=flat-square&logo=MobX&logoColor=FF9955"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-000000?style=flat-square&logo=Tailwind CSS&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/MUI-000000?style=flat-square&logo=MUI&logoColor=007FFF"/>
 </div>
